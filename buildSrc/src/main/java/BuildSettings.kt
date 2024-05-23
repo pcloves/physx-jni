@@ -1,3 +1,3 @@
 object BuildSettings {
-    val buildType = "release"
+    val buildType = "debug"
 }
